@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Iron Man",
+    "year": 2008,
+    "phase": "Phase One",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+  },
+  {
+    "id": 2,
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "phase": "Phase One",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "Bruce Banner, a scientist on the run from the US Government, must find a cure for the monster he turns into whenever he loses his temper."
+  },
+  {
+    "id": 3,
+    "title": "Iron Man 2",
+    "year": 2010,
+    "phase": "Phase One",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man."
+  },
+  {
+    "id": 4,
+    "title": "Thor",
+    "year": 2011,
+    "phase": "Phase One",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans, where he learns what it takes to be a true hero."
+  },
+  {
+    "id": 5,
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "phase": "Phase One",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+    "plot": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'."
+  },
+  {
+    "id": 6,
+    "title": "The Avengers",
+    "year": 2012,
+    "phase": "Phase One",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "Earth's mightiest heroes must come together to stop Loki and his alien army from enslaving humanity."
+  },
+  {
+    "id": 7,
+    "title": "Iron Man 3",
+    "year": 2013,
+    "phase": "Phase Two",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "When Tony Stark's world is torn apart by a formidable terrorist, he starts an odyssey to rebuild and re-examine his life."
+  },
+  {
+    "id": 8,
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "phase": "Phase Two",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Thor_The_Dark_World_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "Thor must team up with Loki to save Asgard and the Nine Realms from a race of ancient enemies."
+  },
+  {
+    "id": 9,
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "phase": "Phase Two",
+    "poster": "https://cdn.marvel.com/content/2x/captainamericathewintersolider_lob_mas_hlf_03.webp",
+    "plot": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger to battle a new threat."
+  },
+  {
+    "id": 10,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "phase": "Phase Two",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "plot": "A group of intergalactic misfits must band together to save the galaxy from a fanatical warrior."
+  }
+] 

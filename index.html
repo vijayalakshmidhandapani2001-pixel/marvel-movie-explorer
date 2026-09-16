@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Marvel Movie Explorer</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Marvel Movie Explorer</h1>
+        <input type="text" id="search-input" placeholder="Search Marvel Movies...">
+    </header>
+
+    <main>
+        <section id="favorites-section">
+            <h2> My Watchlist</h2>
+            <div id="favorites" class="movie-grid"></div>
+        </section>
+
+        <section id="results" class="movie-grid">
+            <!--movie cards get inserted here by JavaScript-->
+        </section>
+    </main>
+
+    <div id="modal-overlay" class="hidden">
+  <div id="modal-content">
+    <button id="modal-close">&times;</button>
+    <img id="modal-poster" src="" alt="">
+    <div id="modal-body">
+      <h2 id="modal-title"></h2>
+      <p id="modal-meta"></p>
+      <p id="modal-plot"></p>
+    </div>
+  </div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
